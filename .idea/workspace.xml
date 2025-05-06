@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="297e04e1-09ac-45df-a6a2-ed9e1a4b7c70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04-components/src/app/about/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-components/src/app/users/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-components/src/components/Nabvar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-metas-datos/src/app/products/cpu/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-metas-datos/src/app/products/laptops/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-metas-datos/src/app/products/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-metas-datos/src/app/products/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-metas-datos/src/app/users/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-metas-datos/src/components/Nabvar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-link/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-link/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-components/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-components/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-components/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-components/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-components/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-components/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/next.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/postcss.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/src/app/page.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +105,7 @@
       <updated>1746487442076</updated>
       <workItem from="1746487443360" duration="189000" />
       <workItem from="1746522218468" duration="262000" />
-      <workItem from="1746523352629" duration="974000" />
+      <workItem from="1746523352629" duration="1975000" />
     </task>
     <servers />
   </component>
