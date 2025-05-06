@@ -5,7 +5,7 @@ export default function RootLayout({ children }) {
         <html lang="es">
             <body>
             <nav>
-                <ul className="flex gap-2">
+                <ul>
                     <li>
                         <Link href="/">Inicio</Link>
                     </li>
