@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="297e04e1-09ac-45df-a6a2-ed9e1a4b7c70" name="Changes" comment="" />
+    <list default="true" id="297e04e1-09ac-45df-a6a2-ed9e1a4b7c70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-link/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-link/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-link/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-link/src/app/page.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +19,20 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/02-rutas" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adimerpaul"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adimerpaul/citinext.git",
+    "accountId": "e313a88a-3e7c-4eb0-ae3d-1ab2e4179814"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp8.2\php\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -30,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/cursosciti/next/02-rutas/src/app/about",
+    "last_opened_file_path": "C:/cursosciti/next/03-link/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\cursosciti\next\03-link\src" />
       <recent name="C:\cursosciti\next\02-rutas\src\app\about" />
       <recent name="C:\cursosciti\next" />
     </key>
@@ -63,7 +81,7 @@
       <updated>1746487442076</updated>
       <workItem from="1746487443360" duration="189000" />
       <workItem from="1746522218468" duration="262000" />
-      <workItem from="1746523352629" duration="391000" />
+      <workItem from="1746523352629" duration="551000" />
     </task>
     <servers />
   </component>
