@@ -5,27 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="297e04e1-09ac-45df-a6a2-ed9e1a4b7c70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/07-not-found/src/app/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-not-found/src/app/products/cpu/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-not-found/src/app/products/laptops/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-not-found/src/app/products/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-not-found/src/app/products/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-not-found/src/app/products/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/postcss.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/public/file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/public/globe.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/public/next.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/public/vercel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/public/window.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-fuentes/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/07/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/public/file.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/public/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/public/next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/public/window.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-not-found/src/app/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/cursosciti/next/04-components/src",
+    "last_opened_file_path": "C:/cursosciti/next/07-not-found/src/app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +76,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\cursosciti\next\07-not-found\src\app" />
       <recent name="C:\cursosciti\next\04-components\src" />
       <recent name="C:\cursosciti\next\03-link\src" />
       <recent name="C:\cursosciti\next\02-rutas\src\app\about" />
@@ -103,7 +104,7 @@
       <updated>1746487442076</updated>
       <workItem from="1746487443360" duration="189000" />
       <workItem from="1746522218468" duration="262000" />
-      <workItem from="1746523352629" duration="2538000" />
+      <workItem from="1746523352629" duration="2827000" />
     </task>
     <servers />
   </component>
