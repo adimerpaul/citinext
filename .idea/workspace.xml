@@ -5,25 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="297e04e1-09ac-45df-a6a2-ed9e1a4b7c70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08-use-client/src/app/users/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-use-client/src/components/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-fetch-data/src/app/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-fetch-data/src/app/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-fetch-data/src/app/posts/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-fetch-data/src/components/CardPostComponent.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/postcss.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/public/file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/public/globe.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/public/next.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/public/vercel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/public/window.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-use-client/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/public/file.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/public/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/public/next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/09-fetch-data/public/window.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/src/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/src/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09/src/app/page.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +104,7 @@
       <updated>1746487442076</updated>
       <workItem from="1746487443360" duration="189000" />
       <workItem from="1746522218468" duration="262000" />
-      <workItem from="1746523352629" duration="3667000" />
+      <workItem from="1746523352629" duration="4417000" />
     </task>
     <servers />
   </component>
